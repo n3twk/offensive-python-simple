@@ -1,3 +1,4 @@
+#!/usr/bin/env  python
 from PyPDF2 import PdfFileReader
 import argparse
 def printmetadata(fileName):
