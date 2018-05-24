@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from ftplib import FTP
 import argparse
 parser = argparse.ArgumentParser(prog='Simple FTP crawler POC')
